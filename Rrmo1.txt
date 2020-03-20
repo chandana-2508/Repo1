@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is on Local
+=======
+Remote new file
+
